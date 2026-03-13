@@ -7,7 +7,7 @@ A Data Analytics project focused on Hospitality industry data analysis (EDA), an
 
 ## Power BI Dashboard
 - <a href="https://github.com/MeghaKariyappanavar/Hospitality-Analytics/blob/main/Capture_dash.JPG"> Dashboard </a>
-- <a href="https://github.com/MeghaKariyappanavar/Hospitality-Analytics/blob/main/Capture_table.JPG"> Table_report </a>
+- <a href="https://github.com/MeghaKariyappanavar/Hospitality-Analytics/blob/main/Capture_table.JPG"> TableReport </a>
 
 ## PowerPoint Explaination
 - <a href="https://github.com/MeghaKariyappanavar/Hospitality-Analytics/blob/main/Hotel%20Analytics.pptx"> Overview </a>
