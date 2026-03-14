@@ -10,6 +10,7 @@ Hotels often struggle to track booking trends, cancellation rates, and revenue p
 The dataset contains hotel booking information including:
 
 Booking date
+
 Check-in date
 Check-out date
 Room type
