@@ -1,4 +1,4 @@
-# Hospitality Analytics Dashboard – Revenue & Booking Analysis | Data-Analysis Project (Interactive Dashboard creation Using Power BI)
+# Hospitality Analytics Dashboard – Revenue & Booking Analysis (Interactive Dashboard creation Using Power BI)
 
 ## Project Objective
 This project analyzes hotel booking and revenue data to identify trends in occupancy, cancellations, and revenue performance. The goal is to help hotel management make data-driven decisions to improve occupancy rate and profitability.
