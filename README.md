@@ -36,17 +36,17 @@ Power BI – Data visualization and dashboard creation
 DAX – Calculations and measures
 
 ## 5) Key KPIs Analyzed
-i)Occupancy Rate
+i) Occupancy Rate
 
-ii)ADR (Average Daily Rate)
+ii) ADR (Average Daily Rate)
 
-iii)RevPAR (Revenue per Available Room)
+iii) RevPAR (Revenue per Available Room)
 
-iv)Cancellation Rate
+iv) Cancellation Rate
 
-v)Booking Lead Time
+v) Booking Lead Time
 
-vi)Total Revenue
+vi) Total Revenue
 
 ## Power BI Dashboard
 - <a href="https://github.com/MeghaKariyappanavar/Hospitality-Analytics/blob/main/Capture_dash.JPG"> Dashboard </a>
