@@ -31,8 +31,11 @@ Revenue
 
 ## 4) Tools & Technologies Used
 Excel – Data cleaning and preprocessing
+
 SQL – Data querying and transformation
+
 Power BI – Data visualization and dashboard creation
+
 DAX – Calculations and measures
 
 ## 5) Key KPIs Analyzed
