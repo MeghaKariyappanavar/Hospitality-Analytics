@@ -64,6 +64,9 @@ vi) Total Revenue
 - <a href="https://github.com/MeghaKariyappanavar/Hospitality-Analytics/blob/main/Capture_dash.JPG"> Dashboard </a>
 - <a href="https://github.com/MeghaKariyappanavar/Hospitality-Analytics/blob/main/Capture_table.JPG"> TableReport </a>
 
+## 8) Creating KPI's Using MySQL
+- <a href="https://github.com/MeghaKariyappanavar/Hospitality-Analytics/blob/main/project%20query.sql">SQL_QUERIES</a>
+
 
 ## 8) PowerPoint Explaination
 - <a href="https://github.com/MeghaKariyappanavar/Hospitality-Analytics/blob/main/Hotel%20Analytics.pptx"> Overview </a>
