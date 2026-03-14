@@ -48,11 +48,29 @@ v) Booking Lead Time
 
 vi) Total Revenue
 
-## Power BI Dashboard
+## 6) Dashboard Features
+*Revenue trends over time
+
+*Booking distribution by market segment
+
+*Cancellation analysis
+
+*Room type performance
+
+*Monthly and yearly revenue comparison
+
+## 7) Dashboard Screenshot
+
 - <a href="https://github.com/MeghaKariyappanavar/Hospitality-Analytics/blob/main/Capture_dash.JPG"> Dashboard </a>
 - <a href="https://github.com/MeghaKariyappanavar/Hospitality-Analytics/blob/main/Capture_table.JPG"> TableReport </a>
 
 
-## PowerPoint Explaination
+## 8) PowerPoint Explaination
 - <a href="https://github.com/MeghaKariyappanavar/Hospitality-Analytics/blob/main/Hotel%20Analytics.pptx"> Overview </a>
 
+## 9) Business Recommendations
+Implement dynamic pricing during peak seasons
+
+Offer promotions during low occupancy periods
+
+Reduce cancellations through stricter booking policies
