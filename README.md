@@ -12,12 +12,19 @@ The dataset contains hotel booking information including:
 Booking date
 
 Check-in date
+
 Check-out date
+
 Room type
+
 Customer segment
+
 Market segment
+
 Cancellation status
+
 Average Daily Rate (ADR)
+
 Revenue
 
 - <a href="https://github.com/MeghaKariyappanavar/Hospitality-Analytics/blob/main/hospitality_project_Excel.xlsx"> Click here for Hospitality Dataset </a>
