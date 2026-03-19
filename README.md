@@ -65,7 +65,7 @@ vi) Total Revenue
 - <a href="https://github.com/MeghaKariyappanavar/Hospitality-Analytics/blob/main/Hotel%20Analytics.pptx"> Presentation Overview </a>
 
 ## 9) Business Recommendations
-Implement dynamic pricing during peak seasons,Offer promotions during low occupancy periods,Reduce cancellations through stricter booking policies
+Implement dynamic pricing during peak seasons, Offer promotions during low occupancy periods, Reduce cancellations through stricter booking policies
 
 ## 10)Key Learnings
 >End-to-end data analytics workflow.
