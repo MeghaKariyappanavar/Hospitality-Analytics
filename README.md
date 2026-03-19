@@ -69,5 +69,7 @@ Implement dynamic pricing during peak seasons,Offer promotions during low occupa
 
 ## 10)Key Learnings
 >End-to-end data analytics workflow.
+
 >Cross validation of insights using multiple tools.
+
 >Translating analytical insights into actionable business outcomes.
