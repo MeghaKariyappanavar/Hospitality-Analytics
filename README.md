@@ -51,23 +51,13 @@ v) Booking Lead Time
 
 vi) Total Revenue
 
-## 6) Dashboard Features
-*Revenue trends over time
 
-*Booking distribution by market segment
-
-*Cancellation analysis
-
-*Room type performance
-
-*Monthly and yearly revenue comparison
-
-## 7) Dashboard Screenshot
+## 6) Dashboard Screenshot
 
 - <a href="https://github.com/MeghaKariyappanavar/Hospitality-Analytics/blob/main/Capture_dash.JPG"> Dashboard </a>
 - <a href="https://github.com/MeghaKariyappanavar/Hospitality-Analytics/blob/main/Capture_table.JPG"> TableReport </a>
 
-## 8) Creating KPI's Using MySQL
+## 7) Creating KPI's Using MySQL
 - <a href="https://github.com/MeghaKariyappanavar/Hospitality-Analytics/blob/main/project%20query.sql">SQL_QUERIES</a>
 
 
@@ -76,3 +66,8 @@ vi) Total Revenue
 
 ## 9) Business Recommendations
 Implement dynamic pricing during peak seasons,Offer promotions during low occupancy periods,Reduce cancellations through stricter booking policies
+
+## 10)Key Learnings
+>End-to-end data analytics workflow.
+>Cross validation of insights using multiple tools.
+>Translating analytical insights into actionable business outcomes.
